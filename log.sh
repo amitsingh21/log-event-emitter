@@ -17,5 +17,5 @@ do
     >&2 echo "$(date +%F_%T) ERROR on event dsakfj alsjfda lksfja lkfajs dkljasfk lajs;kflsa jfkalsdjf aslkf askjhfasdkj skjfsa hfskjd asj fajskfd haskjfd hsakjflsa hfdkjsahfd lkjsahfakjs hfaskj lkj jksjkfdhsa fasfhaskjfd hsajfka hlkjsaf halkjsfh lkjsahfsakjl haskj hfaskj fkaf hasfdjka hlkjsa hfsajlkhf lkjsahf lkjsahf lkjsahfalksj hfsakjdfh kjsahfkjsa hfdkjsa hfkjsafh sakjldfh kjsahfd akjslhfd kjsalhfdkjsa hfkjsad fjksa hfaskjdf haslkjf hakjsfdh salkjfd haslkjhflkjsa hfsajklfh salkjhfdlkjsa hfdalkjs hflkjdsa hlkjsahfd lkjsahfd kjsadhfkjsahfd jksadhf kjsahfdkjsa hfkjsahdf jksahfd jj djas hfsd falkjsdf hdshf aslkdjf halkjsdfh salkjhfd lkjsafdkjsahf kjsahfdkjasfd kjldlkjsafdlkj hsaflkjsa fdlkjsafsahfdasfafhf afds hjsa hflas fafds hjlsa asfafdh safdhasdlfhsahd fasfd safd afaf hafdh aksfdhewaf ewfheshfasfdh waefah weaehaeshfowiefwaipofehwaepifh awuefh awuefhwuhfepuaw f $EVENT_ID"
   fi
 
-  sleep 0.1
+  sleep 0.01
 done
