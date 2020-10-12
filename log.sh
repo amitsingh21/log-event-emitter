@@ -17,5 +17,5 @@ do
     >&2 echo "$(date +%F_%T) ERROR on event $EVENT_ID"
   fi
 
-  sleep 1
+  sleep 0.1
 done
